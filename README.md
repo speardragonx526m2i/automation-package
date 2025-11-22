@@ -1,0 +1,2 @@
+# automation-package
+Python script
